@@ -5,12 +5,12 @@ I made this Tetris game console as a secret santa present for organized for the 
 
 The game console was made out of:
 - lasercut 
-  - 3.6mm plywood for the enclosure
-  - 3mm tinted plexiglass for the screen
+  - 3.6mm plywood for the [enclosure](hardware/lasercut%20parts/enclosure.png)
+  - 3mm tinted plexiglass for the [screen](hardware/lasercut%20parts/screen.png)
 - 3D printed PLA:
-  - a grid for holding the leds and mounting plates
-  - USB charger 
-  - the buttons
+  - a [grid for holding the leds](hardware/3d%20printed%20parts/grid.png) and [mounting plates](hardware/3d%20printed%20parts/mount.png) 
+  - [USB charger](hardware/3d%20printed%20parts/usb%20charger.png) 
+  - [the buttons](hardware/3d%20printed%20parts/button.png) 
 - Some electronic components
   - an arduino nano (or any other arduino)
   - TP4056 Lithium Battery Charger Module
